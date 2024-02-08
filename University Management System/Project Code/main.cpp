@@ -739,7 +739,7 @@ int main(){
 				break;
 			default:
 				system("cls");
-				cout<<"\n\n\n\n\t\t\ Thanks for using our software  "<<endl;
+				cout<<"\n\n\n\n\t\t Thanks for using our software  "<<endl;
 				cout<<"\n\n\n\n\t\t You terminated from system in few seconds ";
 				for(process=0;process<20;process++)
   				{
